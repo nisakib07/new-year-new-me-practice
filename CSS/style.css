@@ -140,7 +140,7 @@
       #f15b22 0%,
       rgba(241, 91, 34, 0) 100%
     ),
-    url("../images/gradient1.png"), url("../images/watch.png");
+    url("../images/watch.png");
   height: 300px;
 
   display: flex;
