@@ -90,3 +90,43 @@
 .fa-check {
   color: #16d887;
 }
+
+/* plans section */
+
+.plans {
+  margin-top: 140px;
+}
+
+.plan-header {
+  text-align: center;
+  margin-bottom: 50px;
+  color: #151414;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.plan-container {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+  margin-left: 230px;
+  margin-right: 230px;
+}
+
+.plan-img {
+  width: 92px;
+  margin-bottom: 18px;
+}
+
+.plan-name {
+  color: #151414;
+  font-size: 30px;
+  font-weight: 700;
+  margin-bottom: 16px;
+}
+
+.plan-text {
+  color: #737272;
+  font-size: 25px;
+  font-weight: 500;
+}
